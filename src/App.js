@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo}  alt="logo" />
+        <img src={logo} className="logo" alt="logo" />
         <p>Fuck Joe Biden </p>
       </header>
     </div>
